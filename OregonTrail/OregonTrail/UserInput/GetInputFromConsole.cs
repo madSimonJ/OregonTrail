@@ -2,6 +2,6 @@
 {
     public class GetInputFromConsole : IGetUserInput
     {
-        public string GetInput() => Console.ReadLine();
+        public string GetInput() => Console.ReadLine() ?? string.Empty;
     }
 }
