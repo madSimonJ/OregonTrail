@@ -4,6 +4,6 @@ namespace OregonTrail.Turns
 {
     public interface IMakeTheNextTurn
     {
-        GameState MakeNextTurn(GameState state);
+        GameState MakeNextTurn(GameState state, string userInput);
     }
 }
