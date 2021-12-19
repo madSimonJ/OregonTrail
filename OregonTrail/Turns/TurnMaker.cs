@@ -195,7 +195,7 @@ namespace OregonTrail.Turns
                 Request.HowMuchSpendOnMisc => state with
                 {
                     Request = Request.BeginGame,
-                    MiscelaneousSupplies = userInputAsInt,
+                    MiscellaneousSupplies = userInputAsInt,
                     Money = 700 - (state.Ammunition + state.Food + userInputAsInt + state.Oxen + state.Clothing),
                     Text = new[]
                     {

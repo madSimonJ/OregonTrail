@@ -21,7 +21,7 @@ namespace OregonTrail.Entities
         public int Food { get; set; }
         public int Oxen { get; set; }
         public int Ammunition { get; set; }
-        public int MiscelaneousSupplies { get; set; }
+        public int MiscellaneousSupplies { get; set; }
         public int Clothing { get; set; }
         public int Money { get; set; }
     }

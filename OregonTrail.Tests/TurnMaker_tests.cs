@@ -429,7 +429,7 @@ namespace OregonTrail.Tests
                     Oxen = 250,
                     Food = 100,
                     Ammunition = 100,
-                    MiscelaneousSupplies = 100,
+                    MiscellaneousSupplies = 100,
                     Clothing = 100,
                     Money = 50
                 }
