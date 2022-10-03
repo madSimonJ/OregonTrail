@@ -1,0 +1,15 @@
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\bin\Debug\net6.0\OregonTrail2.exe
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\bin\Debug\net6.0\OregonTrail2.deps.json
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\bin\Debug\net6.0\OregonTrail2.runtimeconfig.json
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\bin\Debug\net6.0\OregonTrail2.dll
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\bin\Debug\net6.0\OregonTrail2.pdb
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.csproj.AssemblyReference.cache
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.AssemblyInfoInputs.cache
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.AssemblyInfo.cs
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.csproj.CoreCompileInputs.cache
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.dll
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\refint\OregonTrail2.dll
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.pdb
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\OregonTrail2.genruntimeconfig.cache
+C:\Code\OregonTrail\OregonTrail2\OregonTrail2\OregonTrail2\obj\Debug\net6.0\ref\OregonTrail2.dll

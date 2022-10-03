@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OregonTrail", "OregonTrail\OregonTrail.csproj", "{98E92309-D8E1-4F09-9A45-5A33096D25CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OregonTrail.Tests", "OregonTrail.Tests\OregonTrail.Tests.csproj", "{D8C1F1F1-A95A-4699-A708-BA0FDC6CAF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E92309-D8E1-4F09-9A45-5A33096D25CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E92309-D8E1-4F09-9A45-5A33096D25CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E92309-D8E1-4F09-9A45-5A33096D25CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E92309-D8E1-4F09-9A45-5A33096D25CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C1F1F1-A95A-4699-A708-BA0FDC6CAF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C1F1F1-A95A-4699-A708-BA0FDC6CAF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C1F1F1-A95A-4699-A708-BA0FDC6CAF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C1F1F1-A95A-4699-A708-BA0FDC6CAF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4403603-4FBC-4B0D-93A2-37C47E728676}
+	EndGlobalSection
+EndGlobal
